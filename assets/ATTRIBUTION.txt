@@ -1,0 +1,10 @@
+images/be_icon.png: 'Vector Social Media Icons' by 'Icondock.com' under 'Creative Commons (Attribution-Share Alike 3.0 Unported)'
+
+images/delete_icon.png: Composed of: Document-Icon from 'Crystal Clear' by 'Everaldo Coelho' (http://www.everaldo.com/) under LGPL; Delete-Icon from 'Diagona Icons' by 'Yusuke Kamiyamane' (http://p.yusukekamiyamane.com/) under 'Creative Commons (Attribution 3.0 Unported)'
+
+images/download_icon.png: Composed of: Document-Icon from 'Crystal Clear' by 'Everaldo Coelho' (http://www.everaldo.com/) under LGPL; Arrow-Down-Icon from 'Ultimate Gnome' by 'New Mooon' (http://code.google.com/u/newmooon/) under 'GPL'
+
+images/generate_icon.png: Composed of: Document-Icon from 'Crystal Clear' by 'Everaldo Coelho' (http://www.everaldo.com/) under LGPL; Reload-Icon from 'Diagona Icons' by 'Yusuke Kamiyamane' (http://p.yusukekamiyamane.com/) under 'Creative Commons (Attribution 3.0 Unported)'
+
+images/link_icon.png: Composed of: Document-Icon from 'Crystal Clear' by 'Everaldo Coelho' (http://www.everaldo.com/) under LGPL; Link-Icon from 'Gnome icons' by 'Gnome Project' (http://art.gnome.org/themes/icon/) under 'GPL'
+

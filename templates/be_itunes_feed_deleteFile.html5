@@ -1,0 +1,16 @@
+<div id="tl_itunes_feed_deleteFile">
+<div id="tl_buttons">
+<a href="<?php echo $this->getReferer(true); ?>" class="header_back" title="<?php echo specialchars($GLOBALS['TL_LANG']['MSC']['backBTTitle']); ?>" accesskey="b" onclick="Backend.getScrollOffset()"><?php echo $GLOBALS['TL_LANG']['MSC']['backBT']; ?></a>
+</div>
+<h2 class="sub_headline"><?php echo $this->headline; ?></h2>
+<?php echo $this->message; ?>
+<br />
+<form action="<?php echo $this->action; ?>" class="tl_form" method="get">
+<input type="hidden" name="do" value="itunes_feed_generator">
+<input type="hidden" name="rt" value="<?php echo REQUEST_TOKEN; ?>">
+<div class="tl_submit_container">
+  <input type="submit" id="index" class="tl_submit" value="<?php echo $this->submit; ?>"> 
+</div>
+</form>
+
+</div>
