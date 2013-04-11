@@ -11,26 +11,41 @@ The core features seem to work fine, but I haven't had much time yet to test eve
 Allthough not at all fully tested, these features are already in place:
 
 * iTunes-Feeds:
- * Create / delete itunes feeds
- * Edit itunes feeds and fill in the channel information
+ * create / delete itunes feeds
+ * edit itunes feeds and fill in the channel information
 * XML-Files:
- * Manually generate the xml-file in 'share/' with all feed information and items
- * Manually delete the generated xml-file
- * Get direct link to xml-file
- * Download xml-file (one click)
- * Hooked into maintenance (regeneration of XML-Files)
+ * manually generate the xml-file in 'share/' with all feed information and items
+ * manually delete the generated xml-file
+ * get direct link to xml-file
+ * download xml-file (one click)
+ * hooked into maintenance (regeneration of XML-Files)
 * Items (Episodes)
- * Create / copy / move / delete feed items (episodes) and fill in all needed information (Notice: the plugin only generates the feed, it does not take care of your video files!) 
+ * create / copy / move / delete feed items (episodes) and fill in all needed information (Notice: the plugin only generates the feed, it does not take care of your video files!) 
 * Miscellaneous
- * Link to Apples Specs about iTunes feeds
+ * link to Apples Specs about iTunes feeds
+ * two insert tags (output link and url of given feed)
 
-## Roadmap / Todo
+## Roadmap / Todo for 1.0 stable
 
-* Clean up the code -.- (pretty messy due to the fact that there is no proper documentation about extending contao... and my lack of superawesome programming skills)
-* Check about this licence-thing, copyright and stuff
-* Test, find, fix. Repeat.
-* Check the specs again. Maybe I missed something important?
+* clean up the code -.- (pretty messy due to the fact that there is no proper documentation about extending contao... and my lack of superawesome programming skills)
+* check about this licence-thing, copyright and stuff
+* test, find, fix. Repeat.
+* check the specs again. Maybe I missed something important?
 * Feed-Validator.org -> valid feeds?
-* Better explanations
+* better explainations
 * English translation (german only atm)
+* check this permission thing... still not sure, how it works in contao :/
+* useful documentation / little homepage / demo (?)
+* let some contao crack have a look at it!
 * find new todos ;)
+
+## Roadmap for 2.0 (far far away...)
+
+* integrate Amazon S3 / DropBox / FTP / whateverismissing (file picker / upload (possible? useful?))
+* integrate statistics (if possible)
+* more insert tags
+* some FE modules (list of feeds, episodes, embed video player, etc.)
+
+## Questions / Ideas / Comments / anything?
+
+Please feel encouraged to contact me!
